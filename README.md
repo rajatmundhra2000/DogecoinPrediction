@@ -22,3 +22,7 @@ Low : Lowest Price of the day in Dollars<br />
 Vol : Volume traded<br />
 % Change : Percentage change in value<br />
 
+Accuracy Achieved: 94.03%
+Adjusted R-Squared : 0.95
+R-Squared : 0.95
+RMSE : 0.03
